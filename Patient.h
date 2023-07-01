@@ -1,5 +1,5 @@
 #include<iostream>
-#include<string>4
+#include<string>
 #include"Functions.h"
 using namespace std;
 #ifndef Patient_H
