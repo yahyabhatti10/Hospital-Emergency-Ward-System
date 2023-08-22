@@ -1,5 +1,5 @@
 #include<iostream>
-#include<string>4
+#include<string>
 #include"Functions.h"
 #include"Patient.h"
 #include"PatientRecord.h"
